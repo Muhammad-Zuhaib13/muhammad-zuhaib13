@@ -2,7 +2,7 @@
 <h3 align="center">Top Frontend Web Developer</h3>
 
 - :standing_person: Just another guy out there.
-- :speech_balloon: Talks about **HTML | CSS | Javascript | Typescript | Reactjs | Nextjs | React Redux | Zustand | Bootstrap | Material UI |  | User Experience | Responsive Design | Debugging **
+- :speech_balloon: Talks about **HTML | CSS | Javascript | Typescript | Reactjs | Nextjs | React Redux | Zustand | Bootstrap | Material UI |  | User Experience | Responsive Design | Debugging**
 
   
 <h2 align="left">Techs</h2>
@@ -15,13 +15,7 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
-<h2 align="left">Backend : </h2>
 
-![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 <h2 align="left">Database : </h2>
 
