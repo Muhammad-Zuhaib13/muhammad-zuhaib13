@@ -2,7 +2,7 @@
 <h3 align="center">Top Frontend Web Developer</h3>
 
 - :standing_person: Just another guy out there.
-- :speech_balloon: Talks about **HTML | CSS | Javascript | Typescript | Reactjs | Nextjs | React Redux | Zustand | Bootstrap | Material UI |  | User Experience | Debugging**
+- :speech_balloon: Talks about **HTML | CSS | Javascript | Typescript | Reactjs | Nextjs | React Redux | Zustand | Bootstrap | Material UI |  | User Experience | Responsive Design | Debugging **
 
   
 <h2 align="left">Techs</h2>
