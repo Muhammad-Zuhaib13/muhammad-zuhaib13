@@ -26,7 +26,7 @@
 
 <h2 align="left">Github Stats</h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mehdirazanaqvi&theme=transparent&hide_border=true)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehdirazanaqvi&show_icons=true&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com?user=muhammad-zuhaib13&theme=transparent&hide_border=true)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammad-zuhaib13&show_icons=true&theme=transparent)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdirazanaqvi&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- <h2 align="left">Github Trophies</h2>
 ![](https://github-profile-trophy.vercel.app/?username=mehdirazanaqvi&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
